@@ -70,19 +70,19 @@ Power BI Dashboard
 
 ### Customer Analysis
 
-![Sales Analysis](images/CustomerAnalysis.png)
+![Customer Analysis](images/CustomerAnalysis.png)
 
 ---
 
 ### Product Analysis
 
-![Sales Analysis](images/ProductAnalysis.png)
+![ProductAnalysis](images/ProductAnalysis.png)
 
 ---
 
 ### Returns & Performance
 
-![Sales Analysis](images/Returns&Performance.png)
+![Returns&Performance](images/Returns&Performance.png)
 
 ---
 
